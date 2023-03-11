@@ -1,0 +1,15 @@
+show/create git bransh:
+- git bransh <show branchs>
+- git bransh <new branch name>
+
+move to git branch:
+- git checkout <branch name>
+
+create & move to git branch:
+- git checkout -b <branch name>
+
+rename git branch:
+- git branch -m <old branch name> <new branch name>
+
+delete git branch:
+- git branch -d <branch name>

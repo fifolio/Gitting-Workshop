@@ -1,1 +1,2 @@
 use {git tag <v versionNum>} to mark a new tag to the project 
+use {git tag -d <v versionNum>} to delete tags

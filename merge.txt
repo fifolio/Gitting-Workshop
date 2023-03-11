@@ -1,0 +1,2 @@
+fast-forward merge:
+- git checkout <mane branch name> git merge <new branch name>

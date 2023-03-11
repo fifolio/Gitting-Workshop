@@ -1,0 +1,1 @@
+use {echo} to add text content to your files from the terminal

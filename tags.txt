@@ -1,0 +1,1 @@
+use {git tag <v versionNum>} to mark a new tag to the project 
